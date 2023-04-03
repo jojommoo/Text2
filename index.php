@@ -21,6 +21,7 @@
         <div class="fn">
           <a href="javascript:;">注册账号</a>
           <a href="javascript:;">找回密码</a>
+          <a href="javascript:;">找回密码</a>
         </div>
       </div>
     </div>
